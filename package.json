@@ -1,0 +1,37 @@
+{
+  "name": "q-archiver",
+  "version": "0.0.1",
+  "description": "Thin Q promise wrapper for Archiver",
+  "main": "lib/q-archiver.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hadynz/q-archiver.git"
+  },
+  "keywords": [
+    "q",
+    "q-archiver",
+    "archiver",
+    "q",
+    "wrapper"
+  ],
+  "author": {
+    "name": "Hady Osman",
+    "email": "hadyos@gmail.com",
+    "url": "http://hady.geek.nz"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hadynz/q-archiver/issues"
+  },
+  "homepage": "https://github.com/hadynz/q-archiver"
+}
