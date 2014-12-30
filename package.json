@@ -1,6 +1,6 @@
 {
   "name": "q-archiver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Thin Q promise wrapper for Archiver",
   "main": "lib/q-archiver.js",
   "directories": {
