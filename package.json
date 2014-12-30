@@ -33,5 +33,10 @@
   "bugs": {
     "url": "https://github.com/hadynz/q-archiver/issues"
   },
-  "homepage": "https://github.com/hadynz/q-archiver"
+  "homepage": "https://github.com/hadynz/q-archiver",
+  "dependencies": {
+    "archiver": "^0.13.0",
+    "lodash": "^2.4.1",
+    "q": "^1.1.2"
+  }
 }
