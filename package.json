@@ -8,7 +8,9 @@
   },
   "devDependencies": {
     "chai": "^1.10.0",
-    "mocha": "^2.1.0"
+    "fs-extra": "^0.13.0",
+    "mocha": "^2.1.0",
+    "zipfile": "^0.5.4"
   },
   "scripts": {
     "test": "mocha"
